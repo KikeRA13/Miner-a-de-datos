@@ -28,3 +28,5 @@
 2.[Ejercicio 2:Media, mediana y moda](https://github.com/KikeRA13/Miner-a-de-datos/blob/main/p2.2.py)
 3.[Ejercicio 3:Correlación](https://github.com/KikeRA13/Miner-a-de-datos/blob/main/p2.3.py)
 4.[Ejercicio 4: Graficas: graficas de barras, boxplot, histograma y dispersión](https://github.com/KikeRA13/Miner-a-de-datos/blob/main/p2.4.py)
+5.[Ejercicio 5: Arbol de decisiones] (https://app.diagrams.net/)
+
